@@ -1,0 +1,11 @@
+1. Why recursion:
+    |
+    Here we always have 2 choices of either 1 stair or 2 stair {Hence recursion & memonisation}
+
+2. Parameters: 
+    |
+    (a) num: Num of stairs remaining
+
+3. Recursion Type:
+    |
+    sum(left, right): As we hae to return the total ways

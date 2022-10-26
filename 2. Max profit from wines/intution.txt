@@ -1,0 +1,14 @@
+1. Why recursion:
+    |
+    Here we always have 2 choices of taking or not taking {Hence recursion & memonisation}
+
+2. Parameters: 
+    |
+    (a) arr: As we need to get the values
+    (b) left: Keep cnt of left
+    (c) right: Keep cnt of right
+    (d) year: Changes in every iter.
+
+3. Recursion Type:
+    |
+    max(left, right): As we hae to return the maximum value
