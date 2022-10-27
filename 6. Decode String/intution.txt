@@ -1,0 +1,12 @@
+1. Why recursion:
+    |
+    Coz here we have choice evrytime to take either 1 digit or 2 digits
+
+2. Parameters: 
+    |
+    (a) s: To taverse
+    (b) i: Current index {for termination}
+
+3. Recursion Type:
+    |
+    Sum for both cases {return left + right} --> right only call if two_digit possible🙂
