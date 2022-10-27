@@ -1,0 +1,12 @@
+1. Why recursion:
+    |
+    Here we can look upto the prev row, so we can use recursion for this
+
+2. Parameters: 
+    |
+    (a) n: Cur row
+    (b) k: Cur column
+
+3. Recursion Type:
+    |
+    Single call for both cases type recursion

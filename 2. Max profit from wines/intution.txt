@@ -11,4 +11,4 @@
 
 3. Recursion Type:
     |
-    max(left, right): As we hae to return the maximum value
+    max(left, right): As we have to return the maximum value

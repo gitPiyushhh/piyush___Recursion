@@ -1,0 +1,13 @@
+1. Why recursion:
+    |
+    Here we always have 2 choices of taking or not taking {Hence recursion & memonisation}
+
+2. Parameters: 
+    |
+    (a) arr: As we need to get the values
+    (b) i: Cur index
+    (c) cur_cap: Current capacity
+
+3. Recursion Type:
+    |
+    left or right: Either True or False
